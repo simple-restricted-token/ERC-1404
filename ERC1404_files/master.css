@@ -1,6 +1,5 @@
 body {
-  font-family: Lato, Arial, sans-serif; 
-  background-color: #0d0d0d }
+  font-family: Lato, Arial, sans-serif; }
 
 h1.title, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: Lato, Arial, sans-serif; }
@@ -9,7 +8,7 @@ button, .button {
   font-family: Lato, Arial, sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #f8f8f8; }
+  color: #222; }
 
 .form-centered {
   max-width: 400px;
@@ -97,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0; }
   #top #top-nav-main {
     padding-left: 52px;
-    border-left: 1px solid #ffffff; }
+    border-left: 1px solid rgba(0, 0, 0, 0.15); }
     #top #top-nav-main li {
       font-size: 18px;
       font-weight: 500;
@@ -106,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
     #top #top-nav-main a {
       display: inline-block; }
     #top #top-nav-main a {
-      color: #f8f8f8;
+      color: #000;
       text-decoration: none; }
       #top #top-nav-main a:hover {
         -moz-transition: all linear 0.2s;
@@ -236,7 +235,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 28px;
     padding-top: 28px;
     margin-bottom: 0;
-    color: color: #d4d4d4;
     position: relative; }
     #hero p a {
       color: #000; }
@@ -298,7 +296,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 20px;
     font-size: 13px;
     line-height: 20px;
-    color: #d4d4d4; }
+    color: rgba(0, 0, 0, 0.5); }
 
 #contents {
   counter-reset: count;
@@ -839,7 +837,7 @@ body.page-account #hero {
     border-bottom: 1px dashed rgba(0, 0, 0, 0.15); }
   #kube-features p {
     font-size: 15px;
-    color: #d4d4d4; }
+    color: rgba(0, 0, 0, 0.75); }
   #kube-features .item {
     padding: 0 24px; }
 
@@ -1033,7 +1031,7 @@ tr.border-none td {
   padding: 0 28px;
   padding-top: 24px;
   font-size: 13px;
-  color: #bdbdbd; }
+  color: rgba(0, 0, 0, 0.5); }
   #footer p {
     order: 1; }
   #footer nav {
@@ -1088,8 +1086,7 @@ tr.border-none td {
       line-height: 48px; }
     #hero p {
       font-size: 16px;
-      line-height: 24px;
-      color: #d4d4d4; }
+      line-height: 24px; }
   #posts,
   #post-box,
   #main {
@@ -1100,8 +1097,7 @@ tr.border-none td {
     margin: 8px 0; }
   #footer {
     display: block;
-    text-align: center;
-    color: #bdbdbd; }
+    text-align: center; }
     #footer nav ul {
       display: block;
       margin-bottom: 40px; }

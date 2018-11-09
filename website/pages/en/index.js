@@ -125,7 +125,7 @@ const Features = () => (
         title: 'Issuers',
       },
       {
-	  content: "This standard was designed with significant input from the major exchanges to be interoperable across exchanges and easy to integrate on any stack. If this standard does not meet your needs, please open up a Github issue here with your request.",
+	  content: `This standard was designed with significant input from the major exchanges to be interoperable across exchanges and easy to integrate on any stack. If this standard does not meet your needs, please open up a Github issue [here](https://github.com/ethereum/EIPs/issues/1404) with your request.`,
         imageAlign: 'top',
         title: 'Exchanges',
       },

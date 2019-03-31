@@ -6,14 +6,10 @@
 
 *Designed with input from issuers, securities law firms, and exchanges.*
 
-<<<<<<< HEAD
-
 The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404).
 
 ## Video Walkthroughs
 
-=======
->>>>>>> Change video header
 ##### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20
 
 <a href="https://www.youtube.com/watch?v=DCCXEQfX0w8" target="_blank"><img src="https://i.ytimg.com/an_webp/DCCXEQfX0w8/mqdefault_6s.webp?du=3000&sqp=CJnShOUF&rs=AOn4CLAIaUfoYBOLV0QOUHdmjUpQWw4YVw" width="300" border="10" /></a>

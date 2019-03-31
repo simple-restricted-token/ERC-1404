@@ -7,11 +7,11 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 ### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20
 
-<a href="https://www.youtube.com/watch?v=DCCXEQfX0w8" target="_blank"><img src="https://i.ytimg.com/an_webp/DCCXEQfX0w8/mqdefault_6s.webp?du=3000&sqp=CJnShOUF&rs=AOn4CLAIaUfoYBOLV0QOUHdmjUpQWw4YVw" width="300" border="10">
+<a href="https://www.youtube.com/watch?v=DCCXEQfX0w8" target="_blank"><img src="https://i.ytimg.com/an_webp/DCCXEQfX0w8/mqdefault_6s.webp?du=3000&sqp=CJnShOUF&rs=AOn4CLAIaUfoYBOLV0QOUHdmjUpQWw4YVw" width="300" border="10" /></a>
 
-### SF Blockchain Week Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20
+### ERC-1404 and How Open-Source Standards will Accelerate Security Token Adoption
 
-<a href="https://www.youtube.com/watch?v=qQQkn361niI" target="_blank"><img src="https://i.ytimg.com/an_webp/qQQkn361niI/mqdefault_6s.webp?du=3000&sqp=CO7ZhOUF&rs=AOn4CLAKkYwSdIrEJWG_-2ZLiPSfvmaDNg" width="300" border="10">
+<a href="https://www.youtube.com/watch?v=qQQkn361niI" target="_blank"><img src="https://i.ytimg.com/an_webp/qQQkn361niI/mqdefault_6s.webp?du=3000&sqp=CO7ZhOUF&rs=AOn4CLAKkYwSdIrEJWG_-2ZLiPSfvmaDNg" width="300" border="10" /></a>
 
 ### Know Your Token Holders
 

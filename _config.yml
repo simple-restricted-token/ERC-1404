@@ -1,5 +1,43 @@
 theme: jekyll-theme-slate
 title: ERC-1404
 description: An open source standard for security tokens
+show_downloads: yes
+
 logo: /img/logo.png
-show_downloadS: true
+title-img: /img/logo.png
+avatar: /img/logo.png
+
+plugins:
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-include-cache
+
+github:
+  repository_url: "https://www.github.com/simple-restricted-token/simple-restricted-token" 
+  owner_url: "https://www.github.com/simple-restricted-token/"
+  owner_name: ERC-1404
+  zip_url: "https://github.com/simple-restricted-token/simple-restricted-token/archive/master.zip"
+  tar_url: "https://github.com/simple-restricted-token/simple-restricted-token/archive/master.tar.gz"
+
+navbar-links:
+  EIP Comments: "https://github.com/ethereum/EIPs/issues/1404"
+  Blog:
+    - Introducing ERC-1404: "https://www.tokensoft.io/blog/erc-1404-simple-restricted-token-standard"
+    - Whitelisting: "https://www.tokensoft.io/blog/restricting-who-can-hold-and-trade-your-security-tokens-with-erc-1404-and-whitelisting"
+    - Jurisdictional Segregation: "https://www.tokensoft.io/blog/using-multiple-whitelists-to-restrict-transfers-between-jurisdictions"
+
+social-network-links:
+  rss: true
+  github: "https://www.github.com/simple-restricted-token/simple-restricted-token"
+
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
+
+url-pretty: "https://www.erc1404.org"

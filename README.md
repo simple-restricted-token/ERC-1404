@@ -1,4 +1,5 @@
-![](./img/logo.png "ERC-1404" =200x)
+<img src="./img/logo.png"  width="120">
+
 Designed with input from top issuers, securities law firms, and exchanges. 
 The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404).
 

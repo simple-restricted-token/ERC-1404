@@ -1,9 +1,11 @@
 <img src="./img/logo.png"  width="30"> 
 
-### Designed with input from issuers, securities law firms, and exchanges. 
+*Designed with input from issuers, securities law firms, and exchanges.*
+
+
 The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404).
 
-
+## Video Walkthroughs
 
 ##### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20
 
@@ -12,6 +14,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 ##### ERC-1404 and How Open-Source Standards will Accelerate Security Token Adoption
 
 <a href="https://www.youtube.com/watch?v=qQQkn361niI" target="_blank"><img src="https://i.ytimg.com/an_webp/qQQkn361niI/mqdefault_6s.webp?du=3000&sqp=CO7ZhOUF&rs=AOn4CLAKkYwSdIrEJWG_-2ZLiPSfvmaDNg" width="300" border="10" /></a>
+
+## Features
 
 ### Know Your Token Holders
 

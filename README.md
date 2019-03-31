@@ -1,8 +1,6 @@
 <img src="./img/logo.png"  width="30"> 
 
-[![Watch on GitHub](https://img.shields.io/github/watchers/simple-restricted-token/simple-restricted-token.svg?style=social&label=Star&maxAge=2592000)](https://github.com/simple-restricted-token/simple-restricted-token/watchers) [![Star on GitHub](https://img.shields.io/github/stars/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/stargazers)  [![Fork on GitHub](https://img.shields.io/github/forks/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/network/members)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-
+[![Watch on GitHub](https://img.shields.io/github/watchers/simple-restricted-token/simple-restricted-token.svg?style=social&label=Star&maxAge=2592000)](https://github.com/simple-restricted-token/simple-restricted-token/watchers) [![Star on GitHub](https://img.shields.io/github/stars/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/stargazers)  [![Fork on GitHub](https://img.shields.io/github/forks/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/network/members)
 
 *Designed with input from issuers, securities law firms, and exchanges.*
 

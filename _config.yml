@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: ERC-1404
 description: An open source standard for security tokens
-logo: ./img/logo.png
+logo: /img/logo.png
 show_downloadS: true

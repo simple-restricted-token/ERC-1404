@@ -1,6 +1,6 @@
 <img src="./img/logo.png"  width="30"> 
 
-[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/ERC-1404/watchers) [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/ERC-1404/stargazers)  [![Fork on GitHub](https://img.shields.io/github/forks/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/ERC-1404/network/members)
+[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/watchers) [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/stargazers)  [![Fork on GitHub](https://img.shields.io/github/forks/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/network/members)
 
 
 *Designed with input from issuers, securities law firms, and exchanges.*

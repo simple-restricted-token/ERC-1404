@@ -1,15 +1,19 @@
 <img src="./img/logo.png"  width="30"> 
 
-[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/watchers) [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/stargazers)  [![Fork on GitHub](https://img.shields.io/github/forks/jonsn0w/hyde.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/network/members)
+[![Watch on GitHub](https://img.shields.io/github/watchers/simple-restricted-token/simple-restricted-token.svg?style=social&label=Star&maxAge=2592000)](https://github.com/simple-restricted-token/simple-restricted-token/watchers) [![Star on GitHub](https://img.shields.io/github/stars/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/stargazers)  [![Fork on GitHub](https://img.shields.io/github/forks/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/network/members)[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 
 
 *Designed with input from issuers, securities law firms, and exchanges.*
 
+<<<<<<< HEAD
 
 The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404).
 
 ## Video Walkthroughs
 
+=======
+>>>>>>> Change video header
 ##### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20
 
 <a href="https://www.youtube.com/watch?v=DCCXEQfX0w8" target="_blank"><img src="https://i.ytimg.com/an_webp/DCCXEQfX0w8/mqdefault_6s.webp?du=3000&sqp=CJnShOUF&rs=AOn4CLAIaUfoYBOLV0QOUHdmjUpQWw4YVw" width="300" border="10" /></a>

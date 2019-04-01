@@ -27,7 +27,7 @@ Know who your token holders are at all times and maintain a whitelist of investo
 Enforce complex transfer restrictions. Such as: 
 
 * A preventative poison pill provision, to restrict the maximum ownership of a single individual or entity. 
-* The ability to prevent token holders in a single jurisdiction to trade with token holders in another juridiction.
+* The ability to prevent token holders in a single jurisdiction to trade with token holders in another jurisdiction.
 * The ability for the issuer to revoke a token if necessary.
 
 ### Support for Branded Standards

@@ -20,7 +20,7 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 ### ERC-1404 Articles on Medium
 
-[Read more](https://medium.com/erc1404) about ERC-1404, its features and benefits at our Medium blog.
+Read more about ERC-1404, its features and benefits at our [Medium blog](https://medium.com/erc1404).
 
 ## Features
 
@@ -44,7 +44,7 @@ Integrate one standard for global adoption while meeting your compliance require
 
 ### Issuers
 
-If you're seeking to issue a security token, ERC 1404 provides all the tools you need to follow your counsel's guidance with respect to compliance requirements.
+If you're seeking to issue a security token, ERC-1404 provides all the tools you need to follow your counsel's guidance with respect to compliance requirements.
 
 ### Exchanges
 

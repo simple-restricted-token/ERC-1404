@@ -16,6 +16,12 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 <a href="https://www.youtube.com/watch?v=qQQkn361niI" target="_blank"><img src="/img/blockchain-devs.png" width="300" border="10" /></a>
 
+## Blog
+
+### ERC-1404 Articles on Medium
+
+[Read more](https://medium.com/erc1404) about ERC-1404, its features and benefits at our Medium blog.
+
 ## Features
 
 ### Know Your Token Holders

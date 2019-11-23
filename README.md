@@ -6,10 +6,6 @@
 
 The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404).
 
-## ERC-1404 Highlights
-### [ERC-1404 One Year Later](https://medium.com/tokensoft/erc-1404-one-year-later-1bf2d8c93432), Signs of Success for a Compliance-First Token Standard
-### [Ethereum’s ERC-1404](https://www.prnewswire.com/news-releases/ethereums-erc-1404-included-in-sec-filings-300943573.html), The Only Token Standard Included in SEC Filings
-
 ## Video Walkthroughs
 
 ##### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20
@@ -25,6 +21,10 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 ### ERC-1404 Articles on Medium
 
 Read more about ERC-1404, its features and benefits at our [Medium blog](https://medium.com/erc1404).
+
+[ERC-1404 One Year Later](https://medium.com/tokensoft/erc-1404-one-year-later-1bf2d8c93432)
+
+[ERC-1404 found in SEC filings](https://www.prnewswire.com/news-releases/ethereums-erc-1404-included-in-sec-filings-300943573.html)
 
 ## Features
 

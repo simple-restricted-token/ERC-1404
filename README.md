@@ -20,9 +20,15 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Theseus Debt Fund N-2 Filing](https://www.sec.gov/Archives/edgar/data/1780267/000119312519189247/d97053dn2.htm)
 
-### Educational Code
+### Educational
 
-[Example implementation](https://github.com/bitcademyfb/bitcademy-erc1404)
+[Example code implementation](https://github.com/bitcademyfb/bitcademy-erc1404)
+
+[Hashgard.io Study](https://hashgard-io.oss-cn-hongkong.aliyuncs.com/Hashgard-Lab-STO-Report.pdf)
+
+### Notable Deployments
+
+[Enforcing FINRA Rule 3220](https://medium.com/tokensoft/fidelity-labs-completes-proof-of-concept-with-tokensoft-bd18cc8161d)  at Fidelity Investments
 
 ## Video Walkthroughs
 

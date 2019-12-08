@@ -6,6 +6,24 @@
 
 The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404).
 
+## ERC-1404 in the Wild
+
+### Books
+
+[Security Tokens and Stablecoins](https://www.barnesandnoble.com/w/security-tokens-and-stablecoins-quick-start-guide-weimin-sun/1131505418) by Weimin Sun, Xun (Brian) Wu, Angela Kwok
+
+### SEC Filings
+
+[Aptorum Group Ltd. F-1 Filing](https://www.sec.gov/Archives/edgar/data/1734005/000121390019020694/ff12019a4_aptorumgroup.htm)
+
+[Digital Innofvative Ltd. F-4 Filing](https://www.sec.gov/Archives/edgar/data/1790515/000149315219018274/formf-4a.htm)
+
+[Theseus Debt Fund N-2 Filing](https://www.sec.gov/Archives/edgar/data/1780267/000119312519189247/d97053dn2.htm)
+
+### Educational Code
+
+[Example implementation](https://github.com/bitcademyfb/bitcademy-erc1404)
+
 ## Video Walkthroughs
 
 ##### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20

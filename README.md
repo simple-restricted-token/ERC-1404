@@ -30,6 +30,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Enforcing FINRA Rule 3220](https://medium.com/tokensoft/fidelity-labs-completes-proof-of-concept-with-tokensoft-bd18cc8161d)  at Fidelity Investments
 
+[Fairmint](https://github.com/Fairmint/c-org/wiki)
+
 ## Video Walkthroughs
 
 ##### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20
@@ -67,6 +69,13 @@ Enforce complex transfer restrictions. Such as:
 ### Support for Branded Standards
 
 Integrate one standard for global adoption while meeting your compliance requirements. Supports branded standards like Polymath's ST-20 or Harbor's R-Token. See [examples](https://github.com/simple-restricted-token/simple-restricted-token/tree/master/contracts/examples/other-standards) here.
+
+## Commonly Implemented Features
+
+* Ability to Revoke and Reassign
+* Ability to Create Multiple Lists
+* Ability to Freeze a Token
+* Ability to Approve or Reject a Transaction
 
 ## Built With The Ecosystem In Mind
 

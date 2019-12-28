@@ -32,6 +32,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Fairmint](https://github.com/Fairmint/c-org/wiki)
 
+[Civil](https://github.com/joincivil/Civil)
+
 ## Video Walkthroughs
 
 ##### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20

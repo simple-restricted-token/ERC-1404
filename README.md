@@ -34,6 +34,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Civil](https://github.com/joincivil/Civil)
 
+[OpenLaw](https://twitter.com/r_ross_campbell/status/1211777786370822149?s=20)
+
 ## Video Walkthroughs
 
 ##### SF Cryptocurrency Devs Presentation on ERC-1404, Harbor R-Token, and Polymath ST-20

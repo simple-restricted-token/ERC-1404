@@ -81,6 +81,14 @@ Integrate one standard for global adoption while meeting your compliance require
 * Ability to Freeze a Token
 * Ability to Approve or Reject a Transaction
 
+## Commonly Implemented Roles
+
+Role | Example Entity | Actions |
+--- | --- | ---
+Owner | Issuer | Assign / Revoke Admin + Everything Below |
+Administrator | Transfer Agent or Trading Venue | Authorize, Freeze, Revoke, Reassign
+Investor | Individual or Entity | Send and Receive
+
 ## Built With The Ecosystem In Mind
 
 ### Issuers

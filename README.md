@@ -16,7 +16,7 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Aptorum Group Ltd. F-1 Filing](https://www.sec.gov/Archives/edgar/data/1734005/000121390019020694/ff12019a4_aptorumgroup.htm)
 
-[Digital Innofvative Ltd. F-4 Filing](https://www.sec.gov/Archives/edgar/data/1790515/000149315219018274/formf-4a.htm)
+[Digital Innovative Ltd. F-4 Filing](https://www.sec.gov/Archives/edgar/data/1790515/000149315219018274/formf-4a.htm)
 
 [Theseus Debt Fund N-2 Filing](https://www.sec.gov/Archives/edgar/data/1780267/000119312519189247/d97053dn2.htm)
 
@@ -25,6 +25,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 [Example code implementation](https://github.com/bitcademyfb/bitcademy-erc1404)
 
 [Hashgard.io Study](https://hashgard-io.oss-cn-hongkong.aliyuncs.com/Hashgard-Lab-STO-Report.pdf)
+
+[DeFi Prime](https://defiprime.com/erc-1404)
 
 ### Community Deployments
 
@@ -35,6 +37,12 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 [Civil](https://github.com/joincivil/Civil)
 
 [OpenLaw](https://twitter.com/r_ross_campbell/status/1211777786370822149?s=20)
+
+[Elixxir](https://finance.yahoo.com/news/xx-network-announces-support-early-140000046.html)
+
+[Smart Pharma Token and IDAX](https://www.businesswire.com/news/home/20190711005283/en/Smart-Pharma-Token-SMPT-Debuts-Initial-Listing)
+
+[Sarson Funds and Vertalo](https://www.benzinga.com/pressreleases/19/12/p14948344/sarson-funds-leverages-vertalo-to-pick-winners-in-race-for-security-tokenization-protocol-narrowin)
 
 ## Video Walkthroughs
 

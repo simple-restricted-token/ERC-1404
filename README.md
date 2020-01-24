@@ -47,7 +47,9 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 ### Chatter
 
 [Ryan Adams](https://twitter.com/RyanSAdams/status/1187006051696173057?s=20)
+
 [Ross Campbell](https://twitter.com/r_ross_campbell/status/1211777786370822149?s=20)
+
 [DeFi Prime](https://twitter.com/defiprime/status/1133385315400507392?s=20)
 
 ## Video Walkthroughs

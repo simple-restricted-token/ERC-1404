@@ -38,6 +38,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [OpenLaw](https://twitter.com/r_ross_campbell/status/1211777786370822149?s=20)
 
+[SablierHQ](https://www.sablier.finance/)
+
 [Elixxir](https://finance.yahoo.com/news/xx-network-announces-support-early-140000046.html)
 
 [Smart Pharma Token and IDAX](https://www.businesswire.com/news/home/20190711005283/en/Smart-Pharma-Token-SMPT-Debuts-Initial-Listing)

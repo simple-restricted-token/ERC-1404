@@ -1,6 +1,6 @@
 <img src="./img/header.png"> 
 
-[![Watch on GitHub](https://img.shields.io/github/watchers/simple-restricted-token/simple-restricted-token.svg?style=social&label=Star&maxAge=2592000)](https://github.com/simple-restricted-token/simple-restricted-token/watchers) [![Star on GitHub](https://img.shields.io/github/stars/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/stargazers)  [![Fork on GitHub](https://img.shields.io/github/forks/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/network/members)
+[![Stars on GitHub](https://img.shields.io/github/stars/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/stargazers)  [![Fork on GitHub](https://img.shields.io/github/forks/simple-restricted-token/simple-restricted-token.svg?style=social)](https://github.com/simple-restricted-token/simple-restricted-token/network/members)
 
 *Designed with input from issuers, securities law firms, and exchanges.*
 
@@ -38,7 +38,7 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [OpenLaw](https://twitter.com/r_ross_campbell/status/1211777786370822149?s=20)
 
-[SablierHQ](https://www.sablier.finance/)
+[SablierHQ](https://www.sablier.finance/) [Example](https://twitter.com/r_ross_campbell/status/1221116412468645889?s=20)
 
 [Elixxir](https://finance.yahoo.com/news/xx-network-announces-support-early-140000046.html)
 

@@ -120,3 +120,6 @@ This standard was designed with significant input from the major exchanges to be
 ### Legal Counsel or Compliance Teams
 
 It may be challenging to navigate transfer restrictions in the open source world of blockchain. ERC-1404 provides the tools necessary for your issuers to comply with the applicable domestic and international regulatory requirements.
+
+## Development Sponsors
+<img src="https://github.com/simple-restricted-token/ERC-1404/blob/master/img/logo_color.png" width="200" />

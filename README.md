@@ -123,4 +123,4 @@ It may be challenging to navigate transfer restrictions in the open source world
 
 ## Development Sponsors
 
-<a href="https://www.tokensoft.io" target="_blank"><img src="https://github.com/simple-restricted-token/ERC-1404/blob/master/img/logo_color.png" width="200" /></a>
+<a href="https://www.tokensoft.io" target="_blank"><img src="https://github.com/simple-restricted-token/ERC-1404/blob/master/img/logo_color.png?raw=true" width="200" /></a>

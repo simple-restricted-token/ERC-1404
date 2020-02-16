@@ -20,7 +20,9 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Theseus Debt Fund N-2 Filing](https://www.sec.gov/Archives/edgar/data/1780267/000119312519189247/d97053dn2.htm)
 
-[Arca US Treasury Fund](https://www.sec.gov/Archives/edgar/data/1758583/000121465920001068/f26205n2.htm)
+[Arca US Treasury Fund N-2 Filing](https://www.sec.gov/Archives/edgar/data/1758583/000121465920001068/f26205n2.htm)
+
+[Diginex Limited F-4/A Filing](https://www.sec.gov/Archives/edgar/data/1790515/000149315220001615/formf-4a.htm)
 
 ### Educational
 

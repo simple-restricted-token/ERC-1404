@@ -52,6 +52,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Fundament](https://github.com/fundamentumio/fdm)
 
+[Ethereum Wallet](https://wordpress.org/plugins/ethereum-wallet/)
+
 ### Chatter
 
 [Ryan Adams](https://twitter.com/RyanSAdams/status/1187006051696173057?s=20)

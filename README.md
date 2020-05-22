@@ -40,6 +40,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Enforcing FINRA Rule 3220](https://medium.com/tokensoft/fidelity-labs-completes-proof-of-concept-with-tokensoft-bd18cc8161d)  at Fidelity Investments
 
+[Atpar](https://github.com/atpar)
+
 [Fairmint](https://github.com/Fairmint/c-org/wiki)
 
 [Civil](https://github.com/joincivil/Civil)

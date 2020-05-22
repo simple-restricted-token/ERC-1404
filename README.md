@@ -8,6 +8,10 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 ## ERC-1404 in the Wild
 
+### Plugins
+
+[ERC-1404 Compatible Wordpress Plugin] (https://wordpress.org/plugins/ethereum-wallet/)
+
 ### Books
 
 [Security Tokens and Stablecoins](https://www.barnesandnoble.com/w/security-tokens-and-stablecoins-quick-start-guide-weimin-sun/1131505418) by Weimin Sun, Xun (Brian) Wu, Angela Kwok

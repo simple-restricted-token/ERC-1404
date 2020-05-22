@@ -36,6 +36,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [DeFi Prime](https://defiprime.com/erc-1404)
 
+[Applicature STO Guide](https://applicature.com/wp-content/uploads/2019/08/STO-Guide.pdf)
+
 ### Community Deployments
 
 [Enforcing FINRA Rule 3220](https://medium.com/tokensoft/fidelity-labs-completes-proof-of-concept-with-tokensoft-bd18cc8161d)  at Fidelity Investments

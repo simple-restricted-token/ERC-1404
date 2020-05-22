@@ -38,6 +38,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Applicature STO Guide](https://applicature.com/wp-content/uploads/2019/08/STO-Guide.pdf)
 
+[Good Audience ERC-1404 Guide](https://blog.goodaudience.com/trillions-of-dollars-in-tokenized-assets-69d78f8698f9)
+
 ### Community Deployments
 
 [Enforcing FINRA Rule 3220](https://medium.com/tokensoft/fidelity-labs-completes-proof-of-concept-with-tokensoft-bd18cc8161d)  at Fidelity Investments

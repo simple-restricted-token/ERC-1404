@@ -60,6 +60,8 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [LexDao](https://github.com/lexDAO)
 
+[Vevue](https://www.vevue.com/tokenomics)
+
 ### Chatter
 
 [Ryan Adams](https://twitter.com/RyanSAdams/status/1187006051696173057?s=20)

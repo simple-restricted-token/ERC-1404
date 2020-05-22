@@ -10,7 +10,7 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 ### Plugins
 
-[ERC-1404 Compatible Wordpress Plugin] (https://wordpress.org/plugins/ethereum-wallet/)
+[ERC-1404 Compatible Wordpress Plugin](https://wordpress.org/plugins/ethereum-wallet/)
 
 ### Books
 

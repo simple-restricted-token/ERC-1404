@@ -16,6 +16,10 @@ The EIP is open for comment [here](https://github.com/ethereum/EIPs/issues/1404)
 
 [Security Tokens and Stablecoins](https://www.barnesandnoble.com/w/security-tokens-and-stablecoins-quick-start-guide-weimin-sun/1131505418) by Weimin Sun, Xun (Brian) Wu, Angela Kwok
 
+### Regulatory Working Group Support
+
+[Capital Markets and Technology Association](https://github.com/CMTA/CMTA20/commit/f1dec35ee1f6f7612c8f5904d9e4b3668a5ab309) (CMTA), based in Switzerland.
+
 ### SEC Filings
 
 [Aptorum Group Ltd. F-1 Filing](https://www.sec.gov/Archives/edgar/data/1734005/000121390019020694/ff12019a4_aptorumgroup.htm)
